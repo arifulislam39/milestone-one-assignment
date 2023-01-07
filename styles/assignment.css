@@ -127,3 +127,49 @@
     color: #FFFFFF;
     margin-bottom: 25px;
 }
+
+
+/* footer section styles */
+.footer-section {
+    display: flex;
+    gap: 335px;
+    /* position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2651.96px; */
+    background: #151414;
+    color: #F8F8F8;
+    padding: 135px 250px;
+}
+
+.contact-title {
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+
+.contact-description {
+    margin-bottom: 24px;
+
+}
+
+.sub-title {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.input-box {
+    background: #151414;
+    height: 65px;
+
+}
+
+.sub-btn {
+    width: 170.11px;
+    height: 64px;
+    border-radius: 10px;
+    background: #005FAC;
+    padding: 20px 35px;
+    margin-top: -17px;
+}
