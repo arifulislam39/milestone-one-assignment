@@ -1,6 +1,10 @@
 * {
     font-family: 'Work Sans';
+    margin: 0;
+    padding: 0;
 }
+
+ /* header and banner styles */
 
 .header {
     background-image: url('../images/banner/banner3.png');
@@ -8,8 +12,6 @@
     background-size: cover;
     min-height: 120vh;
 }
-
-/* banner style */
 
 .banner {
     text-align: right;
@@ -130,14 +132,10 @@
 
 
 /* footer section styles */
+
 .footer-section {
     display: flex;
     gap: 335px;
-    /* position: absolute;
-    width: 1600px;
-    height: 577px;
-    left: 0px;
-    top: 2651.96px; */
     background: #151414;
     color: #F8F8F8;
     padding: 135px 250px;
@@ -166,6 +164,7 @@
     border-radius: 5px;
     border: 1px solid;
     border-color: #FFFFFF;
+    margin-top: 20px;
 
 }
 
